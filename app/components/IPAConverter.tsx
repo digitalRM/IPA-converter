@@ -141,7 +141,7 @@ export default function IPAConverter() {
         <button
           onClick={handleConvert}
           disabled={!text.trim() || isLoading}
-          className="w-full bg-emerald-500 cursor-pointer font-medium tracking-tight text-white py-2 px-4 rounded-lg hover:bg-emerald-600 transition-colors disabled:bg-gray-300 disabled:cursor-not-allowed"
+          className="w-full bg-[#143E2A] cursor-pointer font-medium tracking-tight text-white py-2 px-4 rounded-lg hover:bg-emerald-600 transition-colors disabled:bg-gray-300 disabled:cursor-not-allowed"
         >
           {isLoading ? "Converting..." : "Convert to IPA"}
         </button>

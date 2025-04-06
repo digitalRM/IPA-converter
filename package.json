@@ -1,7 +1,10 @@
 {
-  "name": "skibidicomponent",
+  "name": "ipa-converter",
   "version": "0.1.0",
   "private": true,
+  "description": "A web-based tool for converting English text to International Phonetic Alphabet (IPA) notation",
+  "author": "Ruslan Mukhamedvaleev",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -28,5 +31,17 @@
     "eslint-config-next": "15.2.3",
     "tailwindcss": "^4",
     "typescript": "^5"
+  },
+  "keywords": [
+    "ipa",
+    "phonetics",
+    "linguistics",
+    "converter",
+    "nextjs",
+    "react",
+    "typescript"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
   }
 }

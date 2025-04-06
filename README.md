@@ -2,6 +2,9 @@
 
 A modern web application for converting English text to International Phonetic Alphabet (IPA) notation. Built with Next.js, TypeScript, and Tailwind CSS.
 
+
+![IPA Converter - English to International Phonetic Alphabet](https://github.com/user-attachments/assets/5a27abb8-7442-4997-9fb7-2c791421f022)
+
 ## Getting Started
 
 ### Prerequisites
